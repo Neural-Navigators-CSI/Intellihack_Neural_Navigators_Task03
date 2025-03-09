@@ -85,4 +85,4 @@ For us , this took more than 9 hours, it will depend on the infrastructure you a
 
 5. In the final-architecture.py, you will find all the implemented architecture. You can select one of it and comment others and play around with that.
 
-6. As mentioned in the report, we evaluated the model, with different metrics, you can all of those 
+6. As mentioned in the report, we evaluated the model, with different metrics, you can all of those find out in the evaluation.py
