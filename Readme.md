@@ -1,26 +1,26 @@
 # AI Research QA Chatbot
 ----------------------------------------------------------------------------------------------------
 ## Important
-For the Intellihack hackathon, 
+For the Intellihack hackathon evaluation, 
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/Neural-Navigators-CSI/Intellihack_Neural_Navigators_Task03.git
+cd Intellihack_Neural_Navigators_Task03/Submission
 ```
 And go through with the Readme  in that Submission directory.
 
 
 Below show the all chatbot build up from scratch.
 
-## Setup Instructions
+### Setup Instructions
 
 ### 1. **Clone the repository (if you haven’t already)**
 
 If you haven't cloned the repository yet, you can do so by running:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/Neural-Navigators-CSI/Intellihack_Neural_Navigators_Task03.git
+cd Intellihack_Neural_Navigators_Task03/
 ```
 
 ### 2. **Create a Virtual Environment**
