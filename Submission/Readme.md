@@ -1,7 +1,5 @@
 # RAG-based AI Research Assistant
 
-This project implements a Retrieval-Augmented Generation (RAG) system using a local LLaMA model for inference.
-
 
 ### 1. **Clone the repository (if you haven’t already)**
 
