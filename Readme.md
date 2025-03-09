@@ -1,6 +1,18 @@
+# AI Research QA Chatbot
+----------------------------------------------------------------------------------------------------
+## Important
+For the Intellihack hackathon, 
+
+```bash
+git clone <repository_url>
+cd <repository_directory>
+```
+And go through with the Readme  in that Submission directory.
 
 
-# Setup Instructions
+Below show the all chatbot build up from scratch.
+
+## Setup Instructions
 
 ### 1. **Clone the repository (if you haven’t already)**
 
