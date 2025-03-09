@@ -15,6 +15,7 @@ cd Intellihack_Neural_Navigators_Task03/Submission
 ## Important
 For the better performance, you need a gpu to run inference.py. If not you will need to run it 
 on kaggel. So the notebook is provided as inference.ipynb. You just need to add langchain_docs.json(explained in the report. it needs to create chroma db) which is given in this directory as kaggle input.
+----------------------------------------------------
 ### Setup Instructions
 
 ### 1. Create and Activate Virtual Environment
