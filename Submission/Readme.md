@@ -52,7 +52,7 @@ project-folder/
 ```
 
 ## How It Works
-1. Loads a **fine-tuned LLaMA model** from a GGUF file.
+1. Loads a **fine-tuned Qwen 2.5 model** from a GGUF file.
 2. Uses **ChromaDB** to store and retrieve relevant documents.
 3. Generates responses based on retrieved context.
 4. Displays a progress bar for document retrieval and response generation.
