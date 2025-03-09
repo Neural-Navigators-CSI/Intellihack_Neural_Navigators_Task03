@@ -1,0 +1,7 @@
+chromadb
+langchain
+tqdm
+llama-cpp-python
+transformers
+numpy
+langchain-community
