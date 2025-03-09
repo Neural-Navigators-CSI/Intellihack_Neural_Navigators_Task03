@@ -61,6 +61,7 @@ project-folder/
 - Ensure your GGUF model path in `inference.py` is correct.
 - The script will automatically retrieve and generate answers for your queries.
 - You can modify `k=3` in `vector_store.similarity_search(query, k=3)` to change the number of retrieved documents.
+- You can also modify the response length by chnaging the max_tokens size in  'outputs = llm(prompt, max_tokens=200, temperature=0.7)'
 
 ## Example Usage
 ```python
